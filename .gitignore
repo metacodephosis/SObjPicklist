@@ -1,0 +1,5 @@
+.sfdx/
+config/
+manifest/
+.forceignore
+sfdx-project.json
